@@ -4,14 +4,14 @@
 
 ## Team Members
 
-- [Celine Huang](https://github.com/celinehuang)
 - [Daphne Hegedus](https://github.com/drhegedus)
-- [Haylee Luu](https://github.com/alinastarkov)
 - [Kelly Rombough](https://github.com/kellyrombough)
-- [Nikoo Sarraf](https://github.com/nikoosarraf)
+- [Haylee Luu](https://github.com/alinastarkov)
+- [Celine Huang](https://github.com/celinehuang)
 - [Sasha Njini](https://github.com/snjini)
+- [Nikoo Sarraf](https://github.com/nikoosarraf)
 
-Computer game version of the popular [board game](https://boardgamegeek.com/boardgame/127398/legends-andor) by the same name. From the rulebook, the objective of the game is:
+Computer game version of the popular [board game](https://boardgamegeek.com/boardgame/127398/legends-andor) by the same name. It was created as part of a university Software Engineering project for McGill University (2019-2020). Contributers are list above. From the rulebook, the objective of the game is:
 
 > **_Legends of Andor: Andor Legend 2_** is a cooperative game meaning all the players are on the same team of heroes that collectively work together to defend a fantasy realm from invading monsters. Therefore, either everyone wins or everyone loses.
 
@@ -40,10 +40,17 @@ _Note: These models may not necessarily reflect the game as it stands today. Rat
 ## Limitations
 
 - A multiplayer (co-op) game only works out of the box on devices over the same network. (including VPN)
+- This game was a work in progress, yet it still shows substantial work on the part of the contributers. This is why I found it to be worthy of sharing.
 
 ## Setup
 
 ### Prerequisites
+- Was run on Unity 2019.3.9f1 (any newer version may need to be updated). MacOSX
+- As mentioned before, co-op players must be on the same WIFI network.
 
 ### Installation
+- Code can be found in the Andor > Assets > Scripts directory. A build has also been included under Andor.app
+- Download Unity found here: https://unity3d.com/get-unity/download/archive?_ga=2.36252515.216914461.1588525593-2119857797.1580925567
+  Make sure to download the Unity 2019.3.9 on released Apr 8, 2020.
+
 
