@@ -49,7 +49,7 @@ _Note: These models may not necessarily reflect the game as it stands today. Rat
 - As mentioned before, co-op players must be on the same WIFI network.
 
 ### Installation
-- Code can be found in the Andor > Assets > Scripts directory. A build has also been included under Andor.app
+- Code can be found in the Andor > Assets > Scripts directory.
 - Download Unity found here: https://unity3d.com/get-unity/download/archive?_ga=2.36252515.216914461.1588525593-2119857797.1580925567
   Make sure to download the Unity 2019.3.9 on released Apr 8, 2020.
 
